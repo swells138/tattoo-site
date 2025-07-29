@@ -37,6 +37,34 @@ export default function Home() {
         </div>
       </section>
 
+      <section className="p-8 sm:p-16 text-center bg-gray-900">
+        <h2 className="text-3xl font-semibold mb-4">Book an Appointment</h2>
+        <p className="mb-2">
+          Ready for your next tattoo?{' '}
+          <a
+            href="https://booking.example.com"
+            className="text-purple-400 underline"
+          >
+            Book a session here
+          </a>
+          .
+        </p>
+        <p>
+          Email:{' '}
+          <a href="mailto:artist@example.com" className="underline">
+            artist@example.com
+          </a>
+        </p>
+        <div className="mt-4 flex justify-center space-x-4">
+          <a href="https://instagram.com/inkartist" className="underline">
+            Instagram
+          </a>
+          <a href="https://facebook.com/inkartist" className="underline">
+            Facebook
+          </a>
+        </div>
+      </section>
+
       <footer className="text-center py-8 text-gray-400">
         © 2025 Ink Portfolio
       </footer>
