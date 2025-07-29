@@ -14,7 +14,7 @@ export default function Home() {
     <div className="min-h-screen font-sans bg-black flex flex-col">
       <section className="flex flex-col items-center justify-center py-24 text-center bg-gradient-to-b from-black to-black px-4">
         <h1 className="text-5xl sm:text-6xl font-bold tracking-tight bg-gradient-to-r from-yellow-400 via-red-600 to-yellow-400 bg-clip-text text-transparent flex items-center">
-          Sydney's Tattoo Portfolio
+          Sydneys Tattoo Portfolio
           <span className="ml-2 text-yellow-300 animate-pulse">✨</span>
         </h1>
         <p className="mt-4 text-lg max-w-xl text-red-300">
