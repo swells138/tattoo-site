@@ -1,12 +1,12 @@
 import Image from "next/image";
 
 const tattoos = [
-  "https://images.unsplash.com/photo-1509042239860-f550ce710b93?auto=format&fit=crop&w=800&q=80",
-  "https://images.unsplash.com/photo-1579201816103-897101d3d9aa?auto=format&fit=crop&w=800&q=80",
-  "https://images.unsplash.com/photo-1568368234038-20cc8b344f24?auto=format&fit=crop&w=800&q=80",
-  "https://images.unsplash.com/photo-1608669154477-5235cd4570f9?auto=format&fit=crop&w=800&q=80",
-  "https://images.unsplash.com/photo-1529626455594-4ff0802cfb7e?auto=format&fit=crop&w=800&q=80",
-  "https://images.unsplash.com/photo-1515369534670-114f1f14b594?auto=format&fit=crop&w=800&q=80",
+  "/images/tattoo6.png",
+  "/images/tattoo2.png",
+  "/images/tattoo3.png",
+  "/images/tattoo4.png",
+  "/images/tattoo1.png",
+  "/images/tattoo5.png",
 ];
 
 export default function Home() {
